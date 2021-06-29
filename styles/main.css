@@ -484,10 +484,13 @@ a {
   margin: 24px auto;
 }
 .post-detail .post-content p {
-  line-height: 1.725;
+  line-height: 2.2;
   margin-bottom: 24px;
   font-size: 18px;
   color: #495057;
+}
+.post-detail .post-content p:first-child {
+  color: #adb5bd;
 }
 .post-detail .post-content p code,
 .post-detail .post-content ul code,
