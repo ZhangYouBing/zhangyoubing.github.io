@@ -317,7 +317,7 @@ a {
   color: #495057;
 }
 .sidebar {
-  width: 320px;
+  width: 500px;
   position: fixed;
   left: 0;
   top: 0;
@@ -339,8 +339,8 @@ a {
   flex: 1;
 }
 .sidebar .top-container .site-logo {
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   border: 2px solid #F1F3F5;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
@@ -348,13 +348,13 @@ a {
 .sidebar .top-container .site-title {
   font-size: 24px;
   padding: 32px 0;
-  color: #dee2e6;
+  color: #868e96;
 }
 .sidebar .top-container .site-nav {
   display: block;
   padding: 8px 16px;
   margin: 16px 0;
-  color: #dee2e6;
+  color: #868e96;
   transition: all 0.3s;
 }
 .sidebar .top-container .site-nav:hover {
@@ -468,13 +468,13 @@ a {
   color: #343a40;
 }
 .post-detail .post-content a {
-  color: #4c6ef5;
-  border-bottom: 1px dotted #4c6ef5;
+  color: #868e96;
+  border-bottom: 1px dotted #868e96;
   transition: all 0.3s;
 }
 .post-detail .post-content a:hover {
-  color: #3b5bdb;
-  border-bottom: 1px dotted #3b5bdb;
+  color: #343a40;
+  border-bottom: 1px dotted #343a40;
 }
 .post-detail .post-content img {
   display: block;
