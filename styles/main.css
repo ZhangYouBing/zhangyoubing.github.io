@@ -316,16 +316,19 @@ a {
   text-decoration: none;
   color: #495057;
 }
+.main {
+  background-image: url('../media/images/body-bg.png');
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
 .sidebar {
   width: 500px;
   position: fixed;
   left: 0;
   top: 0;
   bottom: 0;
-  background-color: #7c8280;
   background-size: cover;
   background-position: center;
-  background-image: url('../media/images/sidebar-bg.jpg');
   display: flex;
   flex-direction: column;
   overflow-y: scroll;
@@ -708,7 +711,7 @@ a {
   .post-item {
     flex-direction: column-reverse;
     padding-bottom: 16px;
-    margin-bottom: 16x;
+    margin-bottom: 16px;
   }
   .post-item .right {
     width: 100%;

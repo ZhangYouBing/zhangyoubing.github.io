@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangyoubing.github.io</id>
-    <title>栯并</title>
-    <updated>2021-07-26T07:28:52.427Z</updated>
+    <title>有并</title>
+    <updated>2021-09-30T10:02:13.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangyoubing.github.io"/>
     <link rel="self" href="https://zhangyoubing.github.io/atom.xml"/>
     <subtitle>万胜</subtitle>
     <logo>https://zhangyoubing.github.io/images/avatar.png</logo>
     <icon>https://zhangyoubing.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 栯并</rights>
-    <entry>
-        <title type="html"><![CDATA[刻在]]></title>
-        <id>https://zhangyoubing.github.io/post/ke-zai/</id>
-        <link href="https://zhangyoubing.github.io/post/ke-zai/">
-        </link>
-        <updated>2021-06-30T08:14:37.000Z</updated>
-        <content type="html"><![CDATA[<p>不惑不思，不获不失，不早不迟，不进不止，不寻不至，不冰不炽</p>
-<p>我拔下身上的箭矢，我看见，你从肩胛中抽出温养的武器，你隔开了百鬼，你在身后划下发光的发饰，<br>
-你被黑夜吞噬，你面容变换模糊，但我知道只是你，一直都是。</p>
-<p>在寂静中醒来，黄昏或清晨都已停滞</p>
-<p>刻在我心底的名字，刻在你背上的双翅。</p>
-<p>没在一起，只是为了不在一起吧。</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, 有并</rights>
     <entry>
         <title type="html"><![CDATA[救世者]]></title>
         <id>https://zhangyoubing.github.io/post/jiu-shi-zhe/</id>
@@ -333,6 +319,36 @@
 象夏天的梦境，被撕碎的声音，<br>
 也许我不懂，放弃才能平静，<br>
 但是我无法忘记，夏天给我的，心情。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雨后]]></title>
+        <id>https://zhangyoubing.github.io/post/yu-hou/</id>
+        <link href="https://zhangyoubing.github.io/post/yu-hou/">
+        </link>
+        <updated>2021-06-29T06:42:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>夜滚落的高墙，谁在对面不甘心嚷嚷，多少选项，时光点过不是旧模样。我精心包裹的皮囊，碾过千场。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>夜滚落的高墙，谁在对面不甘心嚷嚷，多少选项，时光点过不是旧模样。我精心包裹的皮囊，碾过千场。</p>
+<!-- more -->
+<p>雨后的天空微凉，暮色渐沉降，<br>
+我默默路过，喧嚣广场。<br>
+有风筝少年，轮廓映来金芒，<br>
+抽离了，我无处安放的目光。</p>
+<p>走到了路灯渐灭，看到了信仰，<br>
+蜷居在石缝，依旧慌张。<br>
+黑漆漆的隧道，迎来的那点亮，<br>
+我想是，那列火车终于造访。</p>
+<p>风撕裂的一恍，往事必走遍过场，<br>
+然后想象，世界没了我会是怎样。<br>
+地上被摔碎的梦想，还有反光，<br>
+流彩样，仔细看貌似还有些印象。<br>
+但不是晴朗。</p>
+<p>夜滚落的高墙，谁在对面不甘心嚷嚷，<br>
+多少选项，时光点过不是旧模样。<br>
+我精心包裹的皮囊，碾过千场，<br>
+归尘了，细细听依稀还有些声响。<br>
+恨不到天堂。</p>
 ]]></content>
     </entry>
 </feed>
