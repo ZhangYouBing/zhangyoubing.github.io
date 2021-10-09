@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangyoubing.github.io</id>
     <title>有并</title>
-    <updated>2021-10-09T02:27:28.361Z</updated>
+    <updated>2021-10-09T03:19:30.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangyoubing.github.io"/>
     <link rel="self" href="https://zhangyoubing.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://zhangyoubing.github.io/post/li-xiang/">
         </link>
         <updated>2021-10-09T01:54:48.000Z</updated>
-        <content type="html"><![CDATA[<p>我的工作台<br>
+        <summary type="html"><![CDATA[<p>这是我在白天的床 厚点大些的鼠标垫 还有简单的理线器 当一切看起来舒适</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是我在白天的床 厚点大些的鼠标垫 还有简单的理线器 当一切看起来舒适</p>
+<!-- more -->
+<p>我的工作台<br>
 不准备放委屈的小鱼缸<br>
 阳光不多，绿植也算了<br>
 但需要各种颜色的便签<br>
@@ -40,7 +44,11 @@
         <link href="https://zhangyoubing.github.io/post/wo-jiu-yao-si-liao/">
         </link>
         <updated>2021-10-09T01:39:14.000Z</updated>
-        <content type="html"><![CDATA[<p>我就要死了<br>
+        <summary type="html"><![CDATA[<p>我长吸一口气 就不再吐出 要压入旷野 填充到从不曾 有人到访过的心底</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我长吸一口气 就不再吐出 要压入旷野 填充到从不曾 有人到访过的心底</p>
+<!-- more -->
+<p>我就要死了<br>
 终于可以给人生<br>
 留一个完善的结局<br>
 没有背叛<br>
